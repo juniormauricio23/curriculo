@@ -1,23 +1,23 @@
 # Maurício Matias L. Junior
 
-36 anos
+37 anos
 
 Brasília – DF
 
-(66)992407797 / juniormauricio23@gmail.com
+(61)994029262 / juniormauricio23@gmail.com
 
-Programador Jr. - Cargo de interesse
+- Cargo de interesse: Desenvolvedor Flutter iniciante/estágio ou jr. 
 
 Formação
 
     • Bacharelado em Ciência da Computação 
       Universidade Federal de Mato Grosso - UFMT 
-      2020
+      ano de conclusão 2021
 
 Cursos adicionais
 
     • Programação em Python do básico ao avançado
-      Geek University – Udemy / 64 horas
+      / 80 horas
 
     • Web Designer 
       SENAI
@@ -36,8 +36,8 @@ Projetos
       
 Conhecimentos
 
+    • Flutter/Dart
     • Python  
     • Kivy
-    • C/C++
-    • PHP
+    • C/C++    
     • Linux
