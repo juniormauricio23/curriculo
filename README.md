@@ -9,14 +9,15 @@ Brasília – DF
 - Cargo de interesse: Desenvolvedor Flutter iniciante/estágio ou jr. 
 
 Formação
+   <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg/">Diploma Frente </a>  <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_verso1.jpg/">/ Diploma Verso</a>    
 
     • Bacharelado em Ciência da Computação 
       Universidade Federal de Mato Grosso - UFMT 
-      ano de conclusão 2021
-      
-    • Diploma:         
-   <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg/">Frente</a>
-   <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_verso1.jpg/">Verso</a>
+      ano de conclusão 2021      
+    
+
+   
+   
           
 
 Cursos adicionais
@@ -34,11 +35,15 @@ Cursos adicionais
       SENAI
       
 Projetos
+<a href="https://github.com/juniormauricio23/TCC/">TCC </a> 
 
     • Desenvolvimento de um sistema interativo para o Museu de Historia
-      Natural do Araguaia. Desenvolvido em Python e Kivy
-      Link do sistema: https://github.com/juniormauricio23/TCC
+      Natural do Araguaia. Desenvolvido em Python e Kivy    
+      Link do sistema: 
+
+    
       
+
 Conhecimentos
 
     • Flutter/Dart
