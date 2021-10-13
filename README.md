@@ -15,7 +15,9 @@ Formação
       ano de conclusão 2021
       
     • Diploma:
-      https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg
+    
+      <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg">Visit W3Schools.com!</a> 
+      
       https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_verso1.jpg
       
 
