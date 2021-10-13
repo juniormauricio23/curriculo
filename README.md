@@ -14,10 +14,8 @@ Formação
       Universidade Federal de Mato Grosso - UFMT 
       ano de conclusão 2021
       
-    • Diploma:
-    
-      <a href="https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg">Visit W3Schools.com!</a> 
-      
+    • Diploma:    
+      https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_frente1.jpg
       https://github.com/juniormauricio23/curriculo/blob/f381c4b679ebb3a11ab48364cc1c44ad82b44962/diploma_verso1.jpg
       
 
