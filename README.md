@@ -39,15 +39,17 @@ Projetos
 
     • Desenvolvimento de um sistema interativo para o Museu de Historia
       Natural do Araguaia. Desenvolvido em Python e Kivy    
-      Link do sistema: 
-
-    
+       
       
 
 Conhecimentos
 
-    • Flutter/Dart
-    • Python  
-    • Kivy
-    • C/C++    
-    • Linux
+    • Flutter
+    • Kivy  
+    • Programação: C, C++, Python, HTML,Dart
+    • Gráficos/Web: Adobe Photoshop, CorelDraw , Macromedia Dreamweaver, Macromedia Fireworks
+    • Sistemas Operacionais:Linux Debian e dependentes, Windows   
+    
+
+
+
