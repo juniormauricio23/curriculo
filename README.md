@@ -10,7 +10,7 @@ Desenvolvedor Flutter iniciante/estágio ou jr.
 
 Sobre mim
 
-   Envolvido com designer, computação e programação há 15 anos, com experiência em aplicações web durante a graduação. Iniciei com o desenvolvimento mobile a pouco mais de 2 anos com o uso de Kivy e ha um ano com Flutter, tendo desenvolvido pequenas aplicações onde uma está publicada. Atualmente realizando estudos em responsividade e adaptação de layouts e desenvolvendo um jogo também em Flutter que será publicado em breve.
+   Envolvido com designer, computação e programação há 15 anos, com experiência em aplicações web durante a graduação. Iniciei com o desenvolvimento mobile a pouco mais de 2 anos com o uso de Kivy e ha um ano com Flutter, tendo desenvolvido pequenas aplicações onde uma está publicada. Atualmente realizando estudos em responsividade e adaptação de layouts e gerenciamento de estados. Desenvolvendo um jogo também em Flutter que será publicado em breve.
 
 
 Formação
